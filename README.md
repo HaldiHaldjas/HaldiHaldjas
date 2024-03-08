@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning software development in Kehtna Kutsehariduskeskus (vocational school in Estonia).
 - 🌱 I have also experienced z01 Talent in kood/Jõhvi programming school. 
 - 💞️ I’m looking to collaborate mostly on web development. 
-- 📫 Contact me through my Github profile 
+- 📫 Contact me through my Github profile. 
 - ⚡ Fun fact: I have also studied heritage technologies, so I know how to weave viking age fabrics etc. 
 
 <!---
